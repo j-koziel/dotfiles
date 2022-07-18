@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  font:               "Hack 12";
+  show-icons:         true;
+  icon-theme:         "Gruvbox-Material-Dark";
+}
+
+@theme "black.rasi"

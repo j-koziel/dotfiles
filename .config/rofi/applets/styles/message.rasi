@@ -1,0 +1,25 @@
+/* Confirm Dialog */
+
+// @import "colors.rasi"
+@import "everblush.rasi"
+
+* {
+    background-color:       @background;
+    text-color:             @foreground;
+	font:				 	"JetBrainsMono Nerd Font 12";
+}
+
+window {
+    width:      			440px;
+    padding:    			25px;
+    border:					2px;
+    border-radius:          0px;
+    border-color:           @accent;
+    location:               center;
+    y-offset:               -20px;
+}
+
+entry {
+    expand: 				true;
+    text-color:				@accent;
+}
