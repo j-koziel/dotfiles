@@ -15,3 +15,5 @@ bar - polybar
 app launcher - rofi
 
 terminal emulator - kitty
+
+notifications - dunst
