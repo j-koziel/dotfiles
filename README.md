@@ -2,6 +2,8 @@
 my dotfiles for my linux setup
 
 Setup:
+
+
 OS - Ubuntu Jammy Jellyfish 22.04
 
 
